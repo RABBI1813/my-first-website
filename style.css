@@ -1,0 +1,22 @@
+h1 {
+  color: royalblue;
+  background-color: aquamarine;
+  border: 10px solid red;
+  border-radius: 25px;
+  height: 120px;
+  width: 550px;
+  text-align: center;
+  font-size: 80px;
+  font-weight: 900;
+  font-family: "Courier New", Courier, monospace;
+  margin: 20px;
+  padding: 50px;
+}
+#rabbi {
+  color: tomato;
+  font-size: 50px;
+}
+.daughter {
+  color: darkgreen;
+  font-size: 30px;
+}
